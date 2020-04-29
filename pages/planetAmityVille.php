@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <link rel="stylesheet" href="/assets/css/amityville.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Creepster&display=swap" >
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Creepster&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 </head>
 
@@ -19,13 +19,10 @@
         Click "Go" to discover the Devil House and find all of the objects if you dare ! <br>
         Or go back if you're a sissy...
         <br>
-    <a href="/games/gameAmityVille.php" class="game-button-yes">GO !</a> <a href="/public/index.php" class="game-button-no">OMG NO !</a>
+        <a href="/games/gameAmityVille.php" class="game-button-yes">GO !</a> <a href="/public/index.php"
+                                                                                class="game-button-no">OMG NO !</a>
     </p>
 </div>
-<script></script>
-<script></script>
-<script></script>
-
 </body>
 
 </html>
