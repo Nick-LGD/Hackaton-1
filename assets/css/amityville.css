@@ -81,7 +81,9 @@ body, html {
     50% { border-color: azure; }
 }
 
-/* AMITYVILLE GAME *//*
+/* AMITYVILLE GAME */
+
+/*
   A tiny game
 */
 
@@ -94,7 +96,7 @@ body, html {
     color: rgba(255,255,255,1);
     width:20vw;
     text-align:center;
-    font-size:3vw;
+    font-size:2em
 }
 
 #header {
@@ -104,9 +106,9 @@ body, html {
     padding:2vw;
     background: rgba(0,0,0, 0.5);
     color: rgba(255,255,255,1);
-    width:20vw;
+    width:40vw;
     text-align:center;
-    font-size:3vw;
+    font-size:1em;
 }
 
 #winner {
@@ -141,11 +143,11 @@ body, html {
 }
 
 #main.scaled-bg {
-    position: absolute;
-    background: url('https://plasnewyddnt.files.wordpress.com/2013/02/dscn6178.jpg') no-repeat left top fixed;
-    background-size: 100% auto;
-    width: 100%;
+    background-image: url("https://i.postimg.cc/JhWvRwZk/av2.jpg");
     height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #main.cropped-bg {
@@ -158,18 +160,79 @@ body, html {
     width: 100wv;
 }
 
-#item-1 {
+#item-coffin {
     position: absolute;
     width: 5%;
-    top: 30vw;
-    left: 60%;
+    height: 20%;
+    top: 29vw;
+    left: 61%;
 }
 
-#item-2 {
+#item-2-bieber {
     position: absolute;
     width: 5%;
-    top: 50vw;
+    top: 45vw;
     left: 10%;
+}
+
+#item-3-knife {
+    position: absolute;
+    width: 5%;
+    top: 35vw;
+    left: 18%;
+}
+
+#item-4-gun {
+    position: absolute;
+    width: 5%;
+    top: 18vw;
+    left: 35%;
+}
+#item-5-harpoon {
+    position: absolute;
+    width: 5%;
+    top: 5vw;
+    left: 22%;
+}
+#item-6-eyes {
+    position: absolute;
+    width: 3%;
+    top: 13vw;
+    left: 69%;
+}
+#item-7-hand {
+    position: absolute;
+    width: 2%;
+    top: 8vw;
+    left: 2%;
+}
+#item-8 {
+    position: absolute;
+    width: 5%;
+    top: 34vw;
+    left:86%;
+}
+#item-9 {
+    position: absolute;
+    width: 3%;
+    top: 40vw;
+    left: 36%;
+}
+#item-10 {
+    position: absolute;
+    width: 5%;
+    top: 0vw;
+    left: 53%;
+}
+
+.game_av_overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: black;
+    width: 100%;
+    opacity: 40%;
 }
 
 
