@@ -20,7 +20,7 @@
 <!-- The game visuals -->
 <div id="main" class="scaled-bg">
     <div id="winner">
-        <div>Congrats, you won the game! <a href="#">Time to go...</a></div>
+        <div>Congrats, you won the game! <br> <a href="/pages/planetPokemon.php">Go to your next adventure</a></div>
     </div>
     <div class="game_av_overlay">
         <div id="scoreboard"><span id="fundet">0</span> of <span id="ialt">0</span> found</div>
@@ -41,11 +41,11 @@
              src="https://i.postimg.cc/gcBmxFwL/58979eb0cba9841eabab6138.png"/>
         <img id="item-7-hand"
              src="https://i.postimg.cc/R0XVG30X/580b585b2edbce24c47b2947.png"/>
-        <img id="item-8"
+        <img id="item-8-cat"
              src="https://i.postimg.cc/GtGmrXcm/5a5a8b9114d8c4188e0b08e8.png"/>
-        <img id="item-9"
+        <img id="item-9-trump"
              src="https://i.postimg.cc/g0stJhzy/58da5b135f58be1227aec910.png"/>
-        <img id="item-10"
+        <img id="item-10-snake"
              src="https://i.postimg.cc/q7tf9QXh/580b57fbd9996e24bc43bce4.png"/>
     </div>
 </div>
@@ -56,9 +56,9 @@ http://opengameart.org/content/skippy-fish-water-sound-collection -->
     <source src="http://opengameart.org/sites/default/files/bubbles_0.mp3"></source>
     <source src="http://opengameart.org/sites/default/files/bubbles.ogg"></source>
 </audio>
-<!-- Game music from Soundcloud -->
+<!-- Game music from Soundcloud
 
-<audio src="/assets/music/amity-atmoshpere.mp3"></audio>
+<audio src="/assets/music/amity-atmoshpere.mp3"></audio>-->
 <script
         src="https://code.jquery.com/jquery-3.5.0.min.js"
         integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ="

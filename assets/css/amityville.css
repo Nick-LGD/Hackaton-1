@@ -118,7 +118,7 @@ body, html {
     position:absolute;
     top:1vh;
     left:1vw;
-    font-size:15vw;
+    font-size:7em;
     text-align:center;
     display:none;
     vertical-align:middle;
@@ -165,14 +165,14 @@ body, html {
     width: 5%;
     height: 20%;
     top: 29vw;
-    left: 61%;
+    left: 85%;
 }
 
 #item-2-bieber {
     position: absolute;
-    width: 5%;
-    top: 45vw;
-    left: 10%;
+    width: 4%;
+    top: 22vw;
+    left: 8%;
 }
 
 #item-3-knife {
@@ -184,15 +184,15 @@ body, html {
 
 #item-4-gun {
     position: absolute;
-    width: 5%;
-    top: 18vw;
-    left: 35%;
+    width: 6%;
+    top: 17.8vw;
+    left: 33%;
 }
 #item-5-harpoon {
     position: absolute;
-    width: 5%;
-    top: 5vw;
-    left: 22%;
+    width: 4%;
+    top: 35vw;
+    left: 2%;
 }
 #item-6-eyes {
     position: absolute;
@@ -206,22 +206,22 @@ body, html {
     top: 8vw;
     left: 2%;
 }
-#item-8 {
+#item-8-cat {
     position: absolute;
     width: 5%;
     top: 34vw;
     left:86%;
 }
-#item-9 {
+#item-9-trump {
     position: absolute;
     width: 3%;
     top: 40vw;
     left: 36%;
 }
-#item-10 {
+#item-10-snake {
     position: absolute;
-    width: 5%;
-    top: 0vw;
+    width: 3%;
+    top: 5vw;
     left: 53%;
 }
 
