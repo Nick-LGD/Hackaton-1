@@ -24,7 +24,7 @@ redirect("http://localhost:8000/pages/planetAmityVille.php", 120);
 
 <body>
     
-    <div id="container"><canvas height="1050" width="1850"></canvas></div>
+    <div id="container"><canvas height="1000" width="1800"></canvas></div>
     <script type="text/javascript" src="/assets/js/mirror.js"></script>
     
 </body>
