@@ -34,11 +34,12 @@
         if ((response != null) && (response === '1')){
             document.getElementById("room1_result").innerHTML =
                 "Well done ! You won 200 points !";
-            let interval = document.location.href="room2.php";
-            setInterval(interval, 10000);
+            function delay(){
+                document.location.href="room2.php";
+            }
+            setTimeout(delay, 5000);
         } else {
-            document.getElementById("room1_result").innerHTML =
-                "Wrong answer !! Try again !";
+            document.getElementById("room1_result").innerHTML = "Wrong answer !! Try again !";
         }
     }
 </script>
