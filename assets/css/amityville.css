@@ -59,13 +59,14 @@ body, html {
     color: azure;
     text-decoration: none;
 }
-.game-button-no {
-    color: azure;
-    text-decoration: none;
-}
 .game-button-yes:hover {
     color: green;
     transition: 1.0s;
+}
+
+.game-button-no {
+    color: azure;
+    text-decoration: none;
 }
 .game-button-no:hover {
     color: red;
@@ -108,7 +109,7 @@ body, html {
     color: rgba(255,255,255,1);
     width:40vw;
     text-align:center;
-    font-size:1em;
+    font-size:1.3em;
 }
 
 #winner {

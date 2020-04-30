@@ -17,10 +17,8 @@
         Welcome to Amityville... at 112 Ocean Avenue precisely. <br>
         If you are here, it's because you're not a fainthearted. Or are you ? <br>
         Click "Go" to discover the Devil House and find all of the objects if you dare ! <br>
-        Or go back if you're a sissy...
-        <br>
-        <a href="/games/gameAmityVille.php" class="game-button-yes">GO !</a> <a href="/public/index.php"
-                                                                                class="game-button-no">OMG NO !</a>
+        Or go back if you're a sissy...<br>
+        <a href="/games/gameAmityVille.php" class="game-button-yes">GO !</a> <a href="/public/index.php" class="game-button-no">OMG NO !</a>
     </p>
 </div>
 </body>

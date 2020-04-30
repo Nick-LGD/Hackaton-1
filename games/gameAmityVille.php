@@ -50,15 +50,11 @@
     </div>
 </div>
 
-<!-- The game sound from
-http://opengameart.org/content/skippy-fish-water-sound-collection -->
+<!-- The game sound-->
 <audio id="clickSound">
     <source src="http://opengameart.org/sites/default/files/bubbles_0.mp3"></source>
     <source src="http://opengameart.org/sites/default/files/bubbles.ogg"></source>
 </audio>
-<!-- Game music from Soundcloud
-
-<audio src="/assets/music/amity-atmoshpere.mp3"></audio>-->
 <script
         src="https://code.jquery.com/jquery-3.5.0.min.js"
         integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ="
@@ -67,5 +63,4 @@ http://opengameart.org/content/skippy-fish-water-sound-collection -->
 <script type="text/javascript" src="../assets/js/amityville.js"></script>
 
 </body>
-
 </html>
