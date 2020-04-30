@@ -15,13 +15,13 @@ include '../layouts/head.php';
                </p>
                <div class="collapse" id="collapseExample">
                    <ul class="list-group ">
-                       <li class="list-group-item bg-dark"><a href="../games/gameAmityVille.php">AmityVille</a></li>
-                       <li class="list-group-item bg-dark"><a href="../games/gameAsile.php.php">Asile</a></li>
-                       <li class="list-group-item bg-dark"><a href="../games/gameGameOver.php.php">GameOver</a></li>
-                       <li class="list-group-item bg-dark"><a href="../games/gameJurassicPark.php.php">JurassicPark</a></li>
-                       <li class="list-group-item bg-dark"><a href="../games/gameMirror.php.php">Mirror</a></li>
-                       <li class="list-group-item bg-dark"><a href="../games/gameMyLittlePoney.php.php">MyLittlePoney</a></li>
-                       <li class="list-group-item bg-dark"><a href="../games/gamePokemon.php.php">Pokemon</a></li>
+                       <li class="list-group-item bg-dark"><a href="../pages/planetAmityVille.php">AmityVille</a></li>
+                       <li class="list-group-item bg-dark"><a href="../pages/planetAsile.php">Asile</a></li>
+                       <li class="list-group-item bg-dark"><a href="../pages/planetGameOver.php">GameOver</a></li>
+                       <li class="list-group-item bg-dark"><a href="../pages/planetJurassicPark.php">JurassicPark</a></li>
+                       <li class="list-group-item bg-dark"><a href="../pages/planetMirror.php">Mirror</a></li>
+                       <li class="list-group-item bg-dark"><a href="../pages/planetMyLittlePoney.php">MyLittlePoney</a></li>
+                       <li class="list-group-item bg-dark"><a href="../pages/planetPokemon.php">Pokemon</a></li>
                    </ul>
                </div>
            </div>
@@ -32,7 +32,7 @@ include '../layouts/head.php';
                 <hr class="my-4">
                 <p class="font-weight-bold">What are you waiting for ? Just click GO and escape !</p>
                 <p class="lead">
-                    <a class="btn btn-danger btn-lg mt-4 go " href="../games/gameAsile.php" role="button">GO !</a>
+                    <a class="btn btn-danger btn-lg mt-4 go " href="../pages/planetAsile.php" role="button">GO !</a>
                 </p>
             </div>
         </div>
