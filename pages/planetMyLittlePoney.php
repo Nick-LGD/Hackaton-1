@@ -18,7 +18,7 @@
             <p> Click on Yes</p>
             <div class="link-poney">
                 <a href="../games/gameMyLittlePoney.php" class="link_yes-poney">Yes</a>
-                <a class="link_no-poney">No</a>
+                <a class="link_no-poney" href="../public/index.php">No</a>
             </div>
         </div>
     </body>
