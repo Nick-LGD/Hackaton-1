@@ -32,7 +32,7 @@ include '../layouts/head.php';
                 <hr class="my-4">
                 <p class="font-weight-bold">What are you waiting for ? Just click GO and escape !</p>
                 <p class="lead">
-                    <a class="btn btn-danger btn-lg mt-4 go " href="../games/gameAmityVille.php" role="button">GO !</a>
+                    <a class="btn btn-danger btn-lg mt-4 go " href="../games/gameAsile.php" role="button">GO !</a>
                 </p>
             </div>
         </div>
