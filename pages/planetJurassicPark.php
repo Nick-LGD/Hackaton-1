@@ -13,7 +13,7 @@
                 Hello, you are still here ? I'm glad !<br> Now let's play another game shall we ?<br>
                 Did you hear that dinosaurs still exist ?<br> I'm sure you don't believe me ...<br>
                 Anyway you need to see it to believe it ... Are you ready ?<br>
-                <a class="jurassicpark-button-yes" href="/games/gameJurassicPark.php">Yes </a><a class="jurassicpark-button-no" href="/index.php"> No</a>
+                <a class="jurassicpark-button-yes" href="/games/gameJurassicPark.php">Yes </a><a class="jurassicpark-button-no" href="http://localhost:8000"> No</a>
             </p>
         </div>
     </main>

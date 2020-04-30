@@ -1,8 +1,8 @@
 <?php
-include '../layouts/head.php';
+include 'layouts/head.php';
 ?>
 <audio autoplay>
-    <source src="../assets/sound/effect.mp3" type="audio/mpeg">
+    <source src="assets/sound/effect.mp3" type="audio/mpeg">
 </audio>
 <div class="bg-index">
     <div class="container">
@@ -40,5 +40,5 @@ include '../layouts/head.php';
 </div>
 
 <?php
-include '../layouts/footer.php';
+include 'layouts/footer.php';
 ?>

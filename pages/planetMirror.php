@@ -24,7 +24,7 @@
             <br>reverse all your actions, Welcome to my planet!</br>
             <br>This challenge will probably be complex, maybe in the end you will have white hair or you may be bald simply.</br>
             <br>So are you ready to take up this challenge that could make you go crazy?</br>
-            <br><a class="mirror-button-yes" href="../games/gameMirror.php">Yes</a> <a class="mirror-button-no" href="blabla.html">No</a></br>
+            <br><a class="mirror-button-yes" href="../games/gameMirror.php">Yes</a> <a class="mirror-button-no" href="http://localhost:8000">No</a></br>
 
         </article>
     </div>

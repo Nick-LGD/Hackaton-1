@@ -9,9 +9,9 @@
 </head>
 
 <body id="games">
-<!--<audio autoplay>
+<audio autoplay>
     <source src="../sounds/battle.mp3" type="audio/mpeg">
-</audio>-->
+</audio>
   <div id="game">
     <div class="opponent">
       <div class="stats">

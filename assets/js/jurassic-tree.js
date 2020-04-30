@@ -2,7 +2,7 @@
 class JurassicTree {
 
     constructor() {
-        this.r = 200;
+        this.r = 150;
         this.x = width;
         this.y = height - this.r;
     }

@@ -8,7 +8,7 @@ function redirect($url, $time = 5)
 
 // Utilisation :
 // Refresh au bout de 10 secondes 
-redirect("http://localhost:8000/pages/planetAmityVille.php", 120);
+redirect("http://localhost:8000/pages/planetGameOver.php", 60);
 ?>
 
 

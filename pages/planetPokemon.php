@@ -15,7 +15,7 @@
     If you want to go to the next planet you will have to fight and win it for that. <br><br>
     do you want to keep your crazy time? <br><br>
     <br>
-    <a id="btn1" type="button" href="/games/gamePokemon.php">Yes </a><a id="btn2" type="button" href="../public/index.php">No</a>
+    <a id="btn1" type="button" href="/games/gamePokemon.php">Yes </a><a id="btn2" type="button" href="http://localhost:8000/">No</a>
 </article>
 </div>
 </body>

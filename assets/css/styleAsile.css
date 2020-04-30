@@ -64,6 +64,13 @@ room1_transbox2 {
 
 .asile_transbox1 {
     display: flex;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.asile_transbox2 {
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 .asile_transbox1 img {
@@ -92,13 +99,15 @@ room1_transbox2 {
 }
 
 .room1_transbox {
-    padding-bottom: 160px;
-    padding-top: 160px;
+    padding-bottom: 170px;
+    padding-top: 170px;
 }
 
 .room1_transbox2 {
     margin-left: auto;
     margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .room1_input {
