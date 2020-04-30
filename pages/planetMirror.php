@@ -20,10 +20,10 @@
     <div class="typewriter">
         <article>
            
-            <br>As you can see you arrived on a planet like no other this planet has for goal,</br>
+            <br>As you can see you arrived on a planet like no other </br> this planet has for goal,</br>
             <br>reverse all your actions, Welcome to my planet!</br>
-            <br>This challenge will probably be complex, maybe in the end you will have white hair or you may be bald simply.</br>
-            <br>So are you ready to take up this challenge that could make you go crazy?</br>
+            <br>This challenge will probably be complex, maybe in the end </br> you will have white hair or you may be bald simply.</br>
+            <br>So are you ready to take up this challenge </br> that could make you go crazy?</br>
             <br><a class="mirror-button-yes" href="../games/gameMirror.php">Yes</a> <a class="mirror-button-no" href="http://localhost:8000">No</a></br>
 
         </article>
