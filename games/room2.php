@@ -36,7 +36,7 @@
             document.getElementById("room1_result").innerHTML =
                 "Well done ! You won 200 points !";
             function delay(){
-                document.location.href="gameMyLittlePoney.php";
+                document.location.href="http://localhost:8000/pages/planetMyLittlePoney.php";
             }
             setTimeout(delay, 5000);
         } else {

@@ -58,7 +58,7 @@ function keyPressed() {
         scoreElem.html('Score = ' + totalScore);
         if (totalScore > 20) {
             alert("Congrats you won ! Press ok to go to the next planet !");
-            document.location.replace('/pages/planetGameOver.php');
+            document.location.replace('/pages/planetMirror.php');
         }
     }
 }
