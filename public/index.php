@@ -1,4 +1,3 @@
-<?php
 include '../layouts/head.php';
 ?>
 <audio autoplay>
