@@ -19,7 +19,7 @@
         <div class="room1_transbox">
             <h2 class="room1_h2">Riddle 1</h2>
             <p>To get out of the room, solve this riddle:</p>
-            <p></p>
+            <p>Quelle est la moitié de 4 + 4 ?</p>
         </div>
         <div class="room1_transbox2">
             <input class="room1_input" type="button" value="Your answer" onClick="answer()">
@@ -31,7 +31,7 @@
     answer = () => {
         let response = prompt("Enter your answer :");
         alert("Confirm your answer: " + response);
-        if ((response != null) && (response === '1')){
+        if ((response != null) && (response === '6')){
             document.getElementById("room1_result").innerHTML =
                 "Well done ! You won 200 points !";
             function delay(){

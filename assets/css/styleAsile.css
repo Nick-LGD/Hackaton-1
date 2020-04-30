@@ -91,6 +91,11 @@ room1_transbox2 {
     padding-bottom: 5%;
 }
 
+.room1_transbox {
+    padding-bottom: 160px;
+    padding-top: 160px;
+}
+
 .room1_transbox2 {
     margin-left: auto;
     margin-right: auto;
