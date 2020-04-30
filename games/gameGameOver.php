@@ -32,7 +32,7 @@
   </div>
 </div>
 <script>
-<?php include "../assets/JS/GameOver.js" ?>
+<?php include "../assets/js/GameOver.js" ?>
 </script>
 </body>
 </html>
