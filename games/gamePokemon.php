@@ -4,7 +4,7 @@
 <head>
   <title>Crazy Escape</title>
   <script type = "text/javascript" src = "../assets/js/pokemon.js"></script>
-  <link rel = "stylesheet"  href = "../assets/css/style.css" />
+  <link rel = "stylesheet"  href = "../assets/css/stylePkemon.css" />
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 </head>
 
