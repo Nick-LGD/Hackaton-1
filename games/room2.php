@@ -19,7 +19,8 @@
         <div class="room1_transbox">
             <h2 class="room1_h2">Riddle 2</h2>
             <p>To get out of the asylum, solve this riddle:</p>
-            <p></p>
+            <p>Voici une suite de chiffres : 0 1 1 2 3 5 8</p>
+            <p>Quel chiffre suit logiquement le 8 ?</p>
         </div>
         <div class="room1_transbox2">
             <input class="room1_input" type="button" value="Your answer" onClick="answer()">
@@ -31,7 +32,7 @@
     answer = () => {
         let response = prompt("Enter your answer :");
         alert("Confirm your answer: " + response);
-        if ((response != null) && (response === '1')){
+        if ((response != null) && (response === '13')){
             document.getElementById("room1_result").innerHTML =
                 "Well done ! You won 200 points !";
             function delay(){
