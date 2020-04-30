@@ -56,7 +56,7 @@ function keyPressed() {
         const prevScore = parseInt(scoreElem.html().substring(8));
         const totalScore = (prevScore + 1);
         scoreElem.html('Score = ' + totalScore);
-        if (totalScore > 50) {
+        if (totalScore > 20) {
             alert("Congrats you won ! Press ok to go to the next planet !");
             document.location.replace('/pages/planetGameOver.php');
         }
