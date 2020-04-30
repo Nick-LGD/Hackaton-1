@@ -9,7 +9,8 @@
     <title>Game Over</title>
 </head>
 <body>
-    <p class="typewriter">You have seen many things .. The worst is yet to come ... It's time to go back
+    <p class="typewriter">You have seen many things </br>The worst is yet to come</br> It's time to go back home
+    </br>
     </br>
     <a href="../games/gameGameOver.php" class="gameover-button-yes"> Continue</a>
     </p>
