@@ -1,1 +1,22 @@
+.bg-index{
+    background-image: url("https://cdn.pixabay.com/photo/2016/07/21/20/56/window-1533513_1280.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
 
+.btn {
+    width: 200px;
+    height: 130px;
+    font-weight: bold;
+    font-size: 3.5em;
+    margin-left: 400px;
+}
+
+.cont-index {
+    margin: 70px 0;
+    background: no-repeat center center / cover url("https://media.giphy.com/media/l0He3o8pL9AebplFm/source.gif");
+    background-repeat: no-repeat;
+    font-size: 2em;
+}
