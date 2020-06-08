@@ -1,4 +1,4 @@
-*{
+* {
     box-sizing: border-box;
 }
 
@@ -51,7 +51,10 @@
     width: 90%;
 }
 
-.asile_transbox1, .asile_transbox2, .room1_transbox, room1_transbox2 {
+.asile_transbox1,
+.asile_transbox2,
+.room1_transbox,
+room1_transbox2 {
     background-color: #ffffff;
     border: 1px solid black;
     opacity: 0.5;
@@ -82,7 +85,10 @@
     /*padding-bottom: 5%;*/
 }
 
-.asile_transbox1 p, .asile_transbox2 p, .room1_transbox p, .asile_transbox2 a {
+.asile_transbox1 p,
+.asile_transbox2 p,
+.room1_transbox p,
+.asile_transbox2 a {
     margin: 5%;
     font-weight: bold;
     color: black;
